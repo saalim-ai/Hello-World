@@ -1,0 +1,6 @@
+public class HelloWorld {
+	
+	public static void main(Stroing arg[]) {
+		System.out.println("Hello World");
+	}
+}
